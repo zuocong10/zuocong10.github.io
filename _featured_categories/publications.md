@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Publication
-slug: publication
+title: Publications
+slug: publications
 menu: true
 order: 1
 description: >
