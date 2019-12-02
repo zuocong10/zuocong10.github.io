@@ -40,8 +40,8 @@ logo:                  /assets/icons/CongZuo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                "Cong Zuo"
-  email:               "cong.zuo@monash.edu"
+  name:                Cong Zuo
+  email:             <cong.zuo@monash.edu>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -206,7 +206,7 @@ hydejack:
     dynamic:           true
     sunrise:           6
     sunset:            18
-
+    
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
 
@@ -324,7 +324,7 @@ relative_links:
 titles_from_headings:
   strip_title:         true
   collections:         true
-  
+
 replace_img:
   re_img:              <img\s*(?<attrs>.*?)\s*/>
   re_ignore:           (re|data)-ignore
