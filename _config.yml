@@ -42,8 +42,8 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Cong Zuo
-  email:               cong.zuo@monash.edu
+  name:                "Cong Zuo"
+  email:               "cong.zuo@monash.edu"
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
