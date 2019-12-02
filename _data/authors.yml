@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Cong Zuo
+  email:             <cong.zuo@monash.edu>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -13,11 +13,11 @@ author1:
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
     Open `_data/authors.yml` to edit this text.
-
+    
     [Download Free][kit]
     -- or --
     [Buy PRO][buy]
-
+    
     [kit]: https://github.com/qwtel/hydejack-starter-kit/archive/v8.1.1.zip
     [buy]: https://app.simplegoods.co/i/NATYVLYT
 
@@ -33,9 +33,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+   # twitter:         <username>
+    github:          zuocong10
+     email:           <cong.zuo@monash.edu>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
