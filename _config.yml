@@ -50,7 +50,7 @@ menu:
   - title:             Publications
     url:               /publications/
   - title:             CV
-    url:               /hyde/
+    url:               /CV/
   - title:             Documentation
     url:               /docs/
   - title:             About
@@ -206,7 +206,7 @@ hydejack:
     dynamic:           true
     sunrise:           6
     sunset:            18
-    
+
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
 
