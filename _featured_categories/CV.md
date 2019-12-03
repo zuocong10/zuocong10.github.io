@@ -1,7 +1,7 @@
 ---
 layout: list
 title: CV
-slug: CV
+slug: cv
 menu: true
 order: 2
 description: >
