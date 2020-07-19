@@ -49,8 +49,8 @@ author:
 menu:
   - title:             Publications
     url:               /publications/
-  - title:             CV
-    url:               /cv/
+  #- title:             CV
+  #  url:               /cv/
   #- title:             Documentation
   #  url:               /docs/
   #- title:             About
