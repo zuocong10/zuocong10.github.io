@@ -28,7 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
- A Research Fellow of Nanyang Technological University.
+ A Professor of Beijing Institute of Technology.
 
 # A list of keywords for your blog
 keywords:              []
@@ -41,7 +41,7 @@ logo:                  /assets/icons/CongZuo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Cong Zuo
-  email:             <cong.zuo@monash.edu>
+  email:             <zuocong10@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -49,8 +49,8 @@ author:
 menu:
   - title:             Publications
     url:               /publications/
-  - title:             CV
-    url:               /cv/
+  #- title:             CV
+  #  url:               /cv/
   #- title:             Documentation
   #  url:               /docs/
   #- title:             About
